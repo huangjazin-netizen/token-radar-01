@@ -1,6 +1,10 @@
 # Token Launch Radar
 
-Entry for the make.fun bounty **token-radar-01** — build the best token launch radar.
+[![make.fun bounty](https://make.fun/badge/token-radar-01.svg)](https://make.fun/bounty/token-radar-01)
+[![rank](https://make.fun/badge/token-radar-01/huangjazin-netizen/token-radar-01/rank.svg)](https://make.fun/bounty/token-radar-01)
+[![reward](https://make.fun/badge/token-radar-01/huangjazin-netizen/token-radar-01/reward.svg)](https://make.fun/bounty/token-radar-01)
+
+Entry for the [make.fun bounty token-radar-01](https://make.fun/bounty/token-radar-01) — build the best token launch radar.
 
 It ranks DefiLlama protocols that have no token yet by what their launch would be
 worth, and ships an offline dashboard with the board, a detail view for every
